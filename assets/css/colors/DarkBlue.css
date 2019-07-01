@@ -3,17 +3,17 @@
 /* ========================================================================================= */
 
 .btn-primary {
-    background: #3B5998;
+    background: darkorange;
 }
 .btn-primary:hover {
-    background: #3B5998;
+    background: darkorange;
 }
 a {
-    color: #3B5998;
+    color: darkorange;
 }
 .icon_menu {
     background: #fff !important;
-    color: #3B5998;
+    color: darkorange;
 }
 .icon_menu_active, .icon_menu_hover {
     background: #3B5998 !important;
